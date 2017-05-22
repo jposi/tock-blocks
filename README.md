@@ -9,7 +9,7 @@ git clone https://github.com/18F/tock-blocks.git
 cd tock-blocks
 ```
 
-Download `https://tock.18f.gov/api/timecards_bulk.csv` to your `tock-blocks` directory
+Download `https://tock.18f.gov/reports/slim_timecard_bulk.csv?after=2016-10-02` to your `tock-blocks` directory
 It is easiest to do this in browser, because otherwise you will have to authenticate into tock.
 
 ## Run the tock blocks
